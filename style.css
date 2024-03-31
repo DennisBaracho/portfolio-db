@@ -22,7 +22,9 @@ body {
     position: relative;
     margin: 10px;
     margin-bottom: 20px;
+    display: flex;
 }
+
 
 .image {
     display: block;
@@ -96,4 +98,12 @@ a:hover {
 
 .redes:hover {
     border: 3px solid #68DDBD;
+}
+
+.container-sobremim{
+    display: flex;
+}
+
+.texto-perfil{
+font-size: 18px; font-weight: normal; text-align: justify; margin-left: 15px;
 }
